@@ -1,1 +1,3 @@
 # Beefarm-NFT-BOT
+
+DEPRECATED
